@@ -10,11 +10,6 @@ the Free Software Foundation, either version 2 of the License, or
 (at your option) any later version.
 */
 
-// #define VENDOR_ID LifeDeLicious
-// #define PRODUCT_ID Handwired Corne
-// #define DEVICE_VER V1
-// #define Manufacturer LifeDeLicious
-// #define PRODUCT Handwired Corne
 
 // #define MATRIX_ROWS 8
 // #define MATRIX_COLS 12
